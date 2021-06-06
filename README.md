@@ -1,2 +1,2 @@
-# comments
-Testing 'Utterances' as comment provider of my blog
+# Comments Repository
+Setting **[Utterances](https://utteranc.es/)** as the default comment provider of my Personal Blog.
